@@ -1,9 +1,7 @@
 # avrdude-syti
 
-- Download most recent version of avrdude from here: https://download.savannah.gnu.org/releases/avrdude/ 
-- (the .gz.tar file)
-
-1. Clone Github Repository to a location which preferably isn't your Downloads folder
+1. Download most recent version of avrdude from here: https://download.savannah.gnu.org/releases/avrdude/ 
+   (the .gz.tar file)
 
 2. Open ```Microchip Studio```
 
