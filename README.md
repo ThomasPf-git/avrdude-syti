@@ -14,3 +14,5 @@ avrdude setup for microchip studio
 5. ```Command```: ```PATH_TO_AVRDUDE.exe```
 
 6. ```Arguments```: ```-C "PATH_TO_AVRDUDE.conf" -p atmega328p -c arduino -P COM3 -b 115200 -U flash:w:"$(ProjectDir)Debug/$(TargetName).hex":i```
+
+7. Optional: Tick ```Use Output Window```
